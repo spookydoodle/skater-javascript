@@ -1,0 +1,23 @@
+{
+  "name": "skater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -out build/index.js src/index.ts",
+    "test": "echo \"todo\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rwakulszowa/Skater_javascript.git"
+  },
+  "author": "kxkaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rwakulszowa/Skater_javascript/issues"
+  },
+  "homepage": "https://github.com/rwakulszowa/Skater_javascript#readme",
+  "dependencies": {
+    "typescript": "^2.9.2"
+  }
+}
